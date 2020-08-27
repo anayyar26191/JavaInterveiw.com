@@ -1,0 +1,20 @@
+ public char charAt( int index )
+		    public String concat( String str ) 
+		    public boolean endsWith( String suffix ) 
+
+		    public boolean equals( Object anObject ) 
+		    public boolean equalsIgnoreCase( String anotherString ) 
+
+		    public int indexOf( int ch ) 
+		    public int indexOf( String str ) 
+
+		    public int length() 
+		    public boolean startsWith( String prefix ) 
+
+		    public String substring( int beginIndex ) 
+		    public String substring( int beginIndex, int endIndex ) 
+		    public String toLowerCase() 
+
+		    public String toUpperCase() 
+		    public String trim()
+
