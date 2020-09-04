@@ -1,9 +1,14 @@
 package javaInterveiwSample;
 
+import java.util.Scanner;
+
 public class DaysOfweekifStat {
 
 	public static void main(String[] args) {
-		int dayNo =2;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter a number");
+		int dayNo=scan.nextInt();
+		
 		if(dayNo==1){
 			System.out.println("The Day is Monday");
 		}
@@ -27,6 +32,11 @@ public class DaysOfweekifStat {
 		else if(dayNo==7){
 			System.out.println("The Day is Sunday");
 		}
+		else{
+			System.out.println("Invalid input. value between 1 to 7");
+		}
 	}
-
 }
+	
+
+

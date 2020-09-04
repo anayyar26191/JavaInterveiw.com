@@ -1,0 +1,24 @@
+Module 3 – Java Assignment
+1. Write a java program which prints results of following operations:
+a) 5 % 3
+b) 5 % 0
+c) 5 == 3
+d) 5 != 3
+e) 5 > 3
+f) 5 < 3
+g) 5 <= 5
+h) 5 >= 5
+i) 5 & 3
+j) 5 ^ 3
+k) 5 | 3
+l) ~ 5
+j) ~(-5)
+k) (5>3)&&(6>3)
+l) (5>3)&&(6<3)
+m) (5>3)||(6>3)
+n) (5>3)||(6<3)
+o) !(5>3)
+p)5/2
+q)Print value of a where, a = (5 == 5) ? 20 : 30;
+r) Print value of a where, a = (5 != 5) ? 20 : 30;
+2) Write a program to swap values from two given variables.

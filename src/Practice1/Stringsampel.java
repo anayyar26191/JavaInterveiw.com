@@ -1,5 +1,7 @@
 package Practice1;
 
+import java.util.Scanner;
+
 public class Stringsampel {
 
 	public static void main(String[] args) {
@@ -23,6 +25,12 @@ public class Stringsampel {
 
 		    len2 = str2.length();
 		    System.out.println("The length is: " + len2 );
-		   	}
+		  
+		  Scanner s = new Scanner(System.in);
+		  String data=s.next();
+		  //char data_char=data.charAt(0);
+		  System.out.println(data);
+		  
+	}
 
 }
